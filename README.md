@@ -1,4 +1,4 @@
-# NatterboxSpeedDials
+# Natterbox Speed Dials
 ### http query and supporting admin tools to enable a speed dial facility on Natterbox
 project uses a sqlite database to hold a list of names and phone numbers with a speed dial code in the range 8000-8999
 
