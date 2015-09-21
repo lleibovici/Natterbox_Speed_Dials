@@ -20,3 +20,5 @@ If Error is not "OK" then it will contain a literal error string that can be use
 
 The admin folder should be password protected and supplies a simple web interface to add, edit and delete records. If phone numbers are added in UK format, spaces are removed, the leading 0 removed and replaced with "+44"
 
+### Natterbox Policy to use web service
+![Natterbox Policy](/docs/policy.png "Natterbox Policy")
