@@ -29,6 +29,9 @@ An "extention" component uses a regular expression to get any calls 8000 to 8999
 The "HTTP Query" component calls the service and gets the result
 ![HTTP Query Component](/docs/httpquery.png "HTTP Query Component")
 
+The "Compare" component checks for a succesful lookup
+![Compare Component](/docs/compare.png "Compare Component")
+
 If a successful result is returned the "Connect" Component calls the external number
 ![Connect Component](/docs/connect.png "Connect Component")
 
